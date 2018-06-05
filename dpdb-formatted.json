@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "last_updated": "2018-02-20T22:55:10Z",
+  "last_updated": "2018-06-05T00:18:29Z",
   "devices": [
     {
       "type": "android",
@@ -1677,6 +1677,23 @@
       ],
       "dpi": 458,
       "bw": 4,
+      "ac": 1000
+    },
+    {
+      "type": "android",
+      "rules": [
+        {
+          "mdmh": "samsung/*/SM-G960W/*"
+        },
+        {
+          "ua": "SM-G960W"
+        }
+      ],
+      "dpi": [
+        510,
+        248
+      ],
+      "bw": 1,
       "ac": 1000
     }
   ]
